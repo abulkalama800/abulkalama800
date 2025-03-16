@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Abul Kalam
+### Hi there , My name is Abul Kalam
 #### I am Web Developer
-![I am Web Developer](https://www.facebook.com/photo/?fbid=2465455023791407&set=a.798542293816030)
+![I am Web Developer]()
 
 
 Skills: LARAVEL / VUE JS / JS / HTML / CSS
