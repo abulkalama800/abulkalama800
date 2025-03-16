@@ -1,7 +1,5 @@
 ### My name is Abul Kalam
 #### I am Web Developer
-![I am Web Developer](https://www.facebook.com/photo.php?fbid=2451862405150669&set=pb.100009807996465.-2207520000&type=3)
-
 
 Skills: LARAVEL / VUE JS / JS / HTML / CSS
 
